@@ -7,6 +7,7 @@ public class Sample {
 		int a = sc.nextInt();
 		int b = sc.nextInt();
 		int count = 0;
+		
 		for(int i = 1; i <= n; i++) {
 		    int temp = i;
 		    int sum = 0;
